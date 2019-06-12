@@ -1,0 +1,4 @@
+<resources>
+    <string name="app_name">MyActivity</string>
+    <string name="dialog_content">This is the DialogActivity for testing onPause()</string>
+</resources>
